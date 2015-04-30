@@ -1,4 +1,9 @@
+# Files excluded to upload
 *.class
+Cryptoanalysis.java
+CryptoanalysisTest.java
+
+
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
