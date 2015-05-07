@@ -1,0 +1,1 @@
+An object that may be used to locate a file in a file system. It will typically represent a system dependent file path.
